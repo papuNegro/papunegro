@@ -7,7 +7,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-06-28 21:12:06 +0000",
+      "minecraft:eroded_badlands": "2025-06-28 21:11:59 +0000",
       "minecraft:beach": "2025-06-28 21:07:08 +0000",
+      "minecraft:desert": "2025-06-28 21:11:26 +0000",
       "minecraft:stony_peaks": "2025-06-28 03:04:44 +0000",
       "minecraft:forest": "2025-06-28 02:55:30 +0000",
       "minecraft:sparse_jungle": "2025-06-28 03:06:58 +0000",
@@ -723,6 +726,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "rotten_flesh": "2025-06-28 21:09:00 +0000",
       "cooked_mutton": "2025-06-28 02:59:34 +0000",
       "cooked_beef": "2025-06-28 03:07:39 +0000"
     },
@@ -758,9 +762,21 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-28 21:09:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-06-28 21:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-06-28 21:12:06 +0000"
     },
     "done": true
   },
@@ -788,9 +804,42 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-06-28 21:09:48 +0000",
+      "minecraft:witch": "2025-06-28 21:10:04 +0000",
+      "minecraft:zombie": "2025-06-28 21:08:54 +0000",
+      "minecraft:creeper": "2025-06-28 21:08:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-28 21:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-06-28 21:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2025-06-28 21:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-06-28 21:08:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-06-28 21:08:28 +0000"
     },
     "done": true
   },
