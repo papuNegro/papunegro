@@ -33,3 +33,7 @@
 [21:13:18] [Server thread/INFO]: Server empty for 60 seconds, pausing
 [21:41:46] [Server thread/INFO]: Hamitsu[/192.168.193.66:55075] logged in with entity id 3560 at (-530.3000000119209, 93.0, 804.189838341425)
 [21:41:46] [Server thread/INFO]: Hamitsu joined the game
+[21:51:46] [Server thread/INFO]: Hamitsu has made the advancement [Sweet Dreams]
+[22:06:51] [Server thread/INFO]: Made Hamitsu a server operator
+[22:07:06] [Server thread/INFO]: [Hamitsu: Set own game mode to Spectator Mode]
+[22:07:32] [Server thread/INFO]: [Hamitsu: Set own game mode to Survival Mode]
